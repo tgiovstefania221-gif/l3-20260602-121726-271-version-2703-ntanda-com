@@ -1,0 +1,15 @@
+{
+  "txt_movie_count": 2000,
+  "detail_page_count": 2000,
+  "category_page_count": 10,
+  "html_page_count": 2013,
+  "baidu_code_page_count": 2013,
+  "jpg_files_in_zip": 0,
+  "assets": [
+    "assets/app.js",
+    "assets/player.js",
+    "assets/search-data.js",
+    "assets/styles.css"
+  ],
+  "generated_at": "2026-05-25T16:25:38"
+}
